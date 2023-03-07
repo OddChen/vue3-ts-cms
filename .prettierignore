@@ -1,0 +1,17 @@
+/dist/*
+.loacl
+.output.js
+/node_modules/**
+
+.editorconfig
+.husky
+.eslintrc.js
+commitlint.config.js
+vite.config.ts
+
+.index.html
+
+**/*.svg
+**/*.sh
+
+/publish/*
